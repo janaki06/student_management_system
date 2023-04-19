@@ -1,0 +1,13 @@
+/*styling for create component */
+
+.createelement {
+  margin-left: 60px;
+}
+
+.aboutwidth {
+  height: 150px;
+}
+.submit {
+  position: relative;
+  left: 130px;
+}
