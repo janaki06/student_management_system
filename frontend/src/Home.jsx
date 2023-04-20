@@ -17,7 +17,7 @@ function Home() {
       .catch((err) => console.log(err));
   }, []);
 
-  // Defining a function called 'handleSearch' to filter/search for student records
+  // Defining a function called 'handleSearch' to search for student records
   const handleSearch = (event) => {
     setSearchTerm(event.target.value);
   };
